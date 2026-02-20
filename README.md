@@ -2,7 +2,7 @@
 
 # How to Start  :
 
-Step 1 : Go to [https://deriv.com](https://chat.whatsapp.com/GiuNH6QDVFrD7mfl8NQ7yk) and go to your profile section under Deriv API \
+Step 1 : Go to [https://deriv.com](https://track.deriv.com/_tyV1h4aN9QKFfUyb_9NCN2Nd7ZgqdRLk/1/) and go to your profile section under Deriv API \
 Step 2 : Create a new API key with trade option and copy it \
 Step 3 : Download Node.js ( https://nodejs.org/en/download/ ) and after installing launch windows powershell \
 Step 4 : Use this code to set up the bot; \

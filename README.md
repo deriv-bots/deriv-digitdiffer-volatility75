@@ -30,7 +30,7 @@ Step 7 : Monitor the bot's performance and make adjustments as needed or contact
 Want premium bots or 1-on-1 guidance? Reach out:
 
 - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
-- 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
+- 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
 - 📧 Email: monarchtrades@outlook.com 
 
 ---
@@ -39,7 +39,7 @@ Want premium bots or 1-on-1 guidance? Reach out:
 
 There are over 40+ premium bots and strategies available  plus lifetime access to future releases. Test, compare, and find your perfect fit.
 
-- Combo deal includes all bots + future updates or buy bots indivi
+- Combo deal includes all bots + future updates or buy bots individually
 - Contact me for pricing:
 - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
 - 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
@@ -61,8 +61,8 @@ There are over 40+ premium bots and strategies available  plus lifetime access t
 
 Step into a private trading community built for precision, profit, and elite strategy sharing.
 
-**𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:** [https://t.me/Deriv_Pro_Bots](https://t.me/Deriv_Pro_Bots)  
-**𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:** [https://chat.whatsapp.com/GiuNH6QDVFrD7mfl8NQ7yk](https://chat.whatsapp.com/GiuNH6QDVFrD7mfl8NQ7yk)
+**𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:** [𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘](https://t.me/Deriv_Pro_Bots)  
+**𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:** [𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘](https://chat.whatsapp.com/IRaeFQiF7OFJwd4i2HBG3B)
 
 > Access premium bots, live strategy drops, and mentorship from top-tier traders.  
 > This isn’t just a group, it’s your edge.
@@ -90,7 +90,7 @@ This project is licensed under the MIT License.
 If you’ve benefited from these bots, consider supporting by donating, contact me below for donation details:
 
 - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
-- 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
+- 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
 - 📧 Email: monarchtrades@outlook.com
 
 
